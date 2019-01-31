@@ -97,7 +97,7 @@
     "graphql-tag": "2.10.1",
     "isomorphic-fetch": "2.2.1",
     "jest": "23.6.0",
-    "jest-junit": "5.2.0",
+    "jest-junit": "6.2.1",
     "lerna": "3.10.7",
     "lint-staged": "8.1.1",
     "lodash": "4.17.11",
